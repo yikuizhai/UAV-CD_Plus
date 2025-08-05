@@ -8,7 +8,7 @@ UAV-BCD: A UAV Building Change Detection Dataset [[UAV-BCD: A UAV Building Chang
 
 ## Introduction
 
-# UAV-BCD: A UAV Building Change Detection Dataset
+# UAV-CD+: A UAV Change Detection Dataset
 
 This repository is for releasing a uav-bcd: a uav building change detection dataset.
 
